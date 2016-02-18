@@ -1,0 +1,8 @@
+
+function tiempo
+{
+	echo "<h2> Tiempo </h2>"
+	echo "<pre>"
+	date
+	echo "</pre>"
+}
